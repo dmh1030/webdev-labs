@@ -24,7 +24,18 @@ nav ul {
 }
 
 main {
-    margin: 3vh;
+    width: 400px;
+    margin: 10px;
+    border: solid 1px #ccc;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 100%;
+}
+h2, p{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
