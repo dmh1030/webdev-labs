@@ -77,8 +77,9 @@ where post_id=221
 
 
 -- Exercise 13
-
-
+update users
+set email = 'cyoung2022@gmail.com'
+where id=26;
 
 
 -- Exercise 14
